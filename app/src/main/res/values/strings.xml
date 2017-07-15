@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChargingAPP</string>
+    <string name="charging">Charging</string>
+    <string name="discharging">Discharging</string>
+</resources>
